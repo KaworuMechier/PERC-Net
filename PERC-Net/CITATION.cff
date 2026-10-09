@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "PERC-Net: A Lightweight Accounting-Consistent Probabilistic Load Forecaster for Integrated Energy Systems"
+type: software
+authors:
+  - family-names: "Xu"
+    given-names: "Yuansheng"
+    affiliation: "Nanjing University of Information Science and Technology"
+    email: "202413170015@nuist.edu.cn"
+repository-code: "https://github.com/KaworuMechier/PERC-Net"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-09"
+preferred-citation:
+  type: article
+  title: "PERC-Net: A Lightweight Accounting-Consistent Probabilistic Load Forecaster for Integrated Energy Systems"
+  authors:
+    - family-names: "Xu"
+      given-names: "Yuansheng"
+      affiliation: "Nanjing University of Information Science and Technology"
+  journal: "Applied Energy"
+  note: "Under review."

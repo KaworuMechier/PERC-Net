@@ -1,0 +1,8 @@
+# PERC-Net — runtime dependencies
+#
+# The reference model, the data pipeline and every experiment driver need
+# only these four packages.  No einops / scipy / ptflops.
+torch>=2.1
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
